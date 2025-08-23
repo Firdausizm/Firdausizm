@@ -1,4 +1,4 @@
-![gam 1]()
+![gam 1](https://github.com/Firdausizm/Firdausizm/blob/main/asw.jpg?raw=true)
 <h1 align="center">Firdausizm
 
 
