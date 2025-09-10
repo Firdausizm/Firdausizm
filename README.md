@@ -15,7 +15,8 @@
 
 <h2 align="left">About Me... (￣o￣) . z Z </h2>
 
-[![](https://visitcount.itsvg.in/api?id=Firdausizm&icon=5&color=0)](https://visitcount.itsvg.in)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=BossStudent.BossStudent)
+
 
 
 <div align="right">
@@ -36,8 +37,11 @@
  <h3 align="center">🔋 📊Github Stats</h3>
  
 
-![](https://github-readme-stats.vercel.app/api?username=Firdausizm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Firdausizm&theme=dark&hide_border=false)</br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Firdausizm&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firdausizm&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 
