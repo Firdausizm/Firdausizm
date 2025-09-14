@@ -1,29 +1,34 @@
-<div align="center">
-  <a href="#">
-    <img 
-      width="100%" 
-      src="
-    />
-  </a>
-  <br>
-  
-<h1 align="center">Firdausizm
+<img src="https://github.com/Firdausizm/Firdausizm/blob/main/Banner.png?raw=true" width=true />
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Firdausizm+Here+%F0%9F%94%A5+!" alt="Typing SVG" />
+</p>
 
-<h3 align="center">Hello!👋🏼 i'm Alifsanda Najwa Firdaus</h3>
 
 
 <h2 align="left">About Me... (￣o￣) . z Z </h2>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=BossStudent.BossStudent)
 
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 
-<div align="right">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
-<p align="left">I'm Alifsanda from Indonesia<br><br>- 🎓 I’m a student from Jember University<br>- 📚 I'm currently learning about Neural Networks<br>- 📬How to reach me : https://www.instagram.com/a.alip1p_?igsh=djlmNWd3dmlhdDIz</p>
+
+I'm Alifsanda from Indonesia
+
+🎓 I’m a frist year student from Jember University
+
+
+📚 I'm currently learning about Neural Networks
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/a.alip1p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.alip1p" height="30" width="40" /></a>
+</p>
+  
+ 
 
 
 
@@ -34,7 +39,7 @@
   </a>
 </p>
 
- <h3 align="center">🔋 📊Github Stats</h3>
+ <h3 align="center">⚡Github Stats⚡</h3>
  
 
 <p align="center">
@@ -45,7 +50,7 @@
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 
 
