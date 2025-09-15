@@ -6,11 +6,11 @@
 
 
 
-<h2 align="left">About Me ....................................................................................................................................(￣o￣) . z Z </h2>
+<h2 align="left">About Me ...............................................................................................................................(￣o￣) . z Z </h2>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=BossStudent.BossStudent)
 
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif"  />
 
 
 
