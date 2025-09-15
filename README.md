@@ -6,21 +6,20 @@
 
 
 
-<h2 align="left">About Me ...............................................................................................................................(￣o￣) . z Z </h2>
+<h2 align="left">About Me .............................................................................................................................(￣o￣) . z Z </h2>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=BossStudent.BossStudent)
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif"  />
 
 
-
-
-I'm Alifsanda from Indonesia
-
 🎓 I’m a frist year student from Jember University
 
 
-📚 I'm currently learning about Neural Networks
+📚 currently learning about Neural Networks
+
+
+🏆 competitive in data mining 
 
 
 <h3 align="left">Connect with me :</h3>
