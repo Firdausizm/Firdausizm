@@ -6,7 +6,7 @@
 
 
 
-<h2 align="left">About Me... (￣o￣) . z Z </h2>
+<h2 align="left">About Me ....................................................................................................................................(￣o￣) . z Z </h2>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=BossStudent.BossStudent)
 
@@ -23,7 +23,7 @@ I'm Alifsanda from Indonesia
 📚 I'm currently learning about Neural Networks
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://instagram.com/a.alip1p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.alip1p" height="30" width="40" /></a>
 </p>
