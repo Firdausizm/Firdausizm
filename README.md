@@ -16,7 +16,7 @@
 🎓 I’m a frist year student from Jember University
 
 
-📚 currently learning about Neural Networks
+📚 currently learning about Machine Learning
 
 
 🏆 competitive in data mining 
