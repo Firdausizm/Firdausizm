@@ -47,14 +47,13 @@
 </p>
 
 
+
+
+
 <h3 align="center">✍️ Random Dev Quote</h3>
 
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=verticalntal&theme=radical)
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+<img align="center" height="700" src="https://raw.githubusercontent.com/sebasrp/sebasrp/master/cyberpunk.pixelart.Akito_One.gif"  />
