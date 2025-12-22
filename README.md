@@ -1,7 +1,8 @@
 <img src="https://github.com/Firdausizm/Firdausizm/blob/main/Banner.png?raw=true" width=true />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Firdausizm+Here+%F0%9F%94%A5+!" alt="Typing SVG" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=40&pause=1000&color=40c463&center=true&vCenter=true&random=false&width=1200&lines=%F0%9F%92%BB+%22Firdausizm+here;+%F0%9F%92%BB+Welcome+to+My+GitHub+Universe!)](https://git.io/typing-svg)
 </p>
 
 
@@ -19,7 +20,7 @@
 📚 currently learning about Machine Learning
 
 
-🏆 competitive in data mining 
+🏆 competitive in Data Mining
 
 
 <h3 align="left">Connect with me :</h3>
@@ -41,10 +42,20 @@
  <h3 align="center">⚡Github Stats⚡</h3>
  
 
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Firdausizm&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Firdausizm&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Firdausizm&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Firdausizm&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Firdasizm&theme=github_dark)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Firdausizm&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firdausizm&layout=compact&theme=tokyonight&hide_border=true" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Firdausizm&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
 </p>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Firdausizm&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/AndroidWithRossyn/github-readme-activity-graph)
+
+</div>
 
 
 
@@ -52,8 +63,11 @@
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 
-![](https://quotes-github-readme.vercel.app/api?type=verticalntal&theme=radical)
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
+</div>
 
 
 <img align="center" height="700" src="https://raw.githubusercontent.com/sebasrp/sebasrp/master/cyberpunk.pixelart.Akito_One.gif"  />
