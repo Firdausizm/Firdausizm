@@ -35,7 +35,7 @@
 <h3 align="center">🛠 Language and tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,discord,matlab,cpp,python,pycharm,tensorflow,vscode" />
+    <img src="https://skillicons.dev/icons?i=github,git,docker,discord,matlab,cpp,python,pycharm,tensorflow,vscode" />
   </a>
 </p>
 
