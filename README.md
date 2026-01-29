@@ -48,7 +48,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Firdausizm&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Firdausizm&theme=github_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Firdausizm&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Firdasizm&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Firdausizm&theme=github_dark)
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=Firdausizm&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
 </p>
