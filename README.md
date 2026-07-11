@@ -1,4 +1,4 @@
-<img src="https://github.com/Firdausizm/Firdausizm/blob/main/Banner.png?raw=true" width=true />
+<img src="https://github.com/Firdausizm/Firdausizm/blob/main/bannergithub.png" width=true />
 
 <p align="center">
 
@@ -14,10 +14,10 @@
 <img align="right" height="150" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif"  />
 
 
-🎓 I’m a frist year student from Jember University
+🎓 I’m a Second year student from Jember University
 
 
-📚 currently learning about Machine Learning & Deep Learning
+📚 currently learning about AI Architecture & Pipeline
 
 
 🏆 competitive in Data Mining
