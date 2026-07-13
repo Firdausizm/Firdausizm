@@ -19,7 +19,7 @@
 | 🎓 Second year student from **Jember University** |
 | 📚 Currently learning about **AI Architecture & Pipeline** |
 | 🏆 Competitive in **Data Mining & Hackathon** |
-| 🎧 Music Vibe like **Arctic Monkeys, Nirvana, Oasis, Rex Orange Country** |
+| 🎧 Music Vibe like **Arctic Monkeys, Nirvana, Oasis** |
 
 
 <h3 align="left">Connect with me :</h3>
