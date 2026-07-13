@@ -14,18 +14,20 @@
 <img align="right" height="150" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif"  />
 
 
-🎓 I’m a Second year student from Jember University
-
-
-📚 currently learning about AI Architecture & Pipeline
-
-
-🏆 competitive in Data Mining
+| 😎 Alifsanda Najwa Firdaus |
+| :--- |
+| 🎓 Second year student from **Jember University** |
+| 📚 Currently learning about **AI Architecture & Pipeline** |
+| 🏆 Competitive in **Data Mining & Hackathon** |
+| 🎧 Music Vibe like **Arctic Monkeys, Nirvana, Oasis, Rex Orange Country** |
 
 
 <h3 align="left">Connect with me :</h3>
+
 <p align="left">
-<a href="https://instagram.com/a.alip1p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.alip1p" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/alifsanda-najwa-firdaus" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://instagram.com/a.alip1p_" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="mailto:alifsandafirdausi@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a>
+
 </p>
   
  
@@ -49,15 +51,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Firdausizm&theme=github_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Firdausizm&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Firdausizm&theme=github_dark)
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=Firdausizm&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
-</p>
+
+![Trophies](https://github-trophies.vercel.app/?username=Firdausizm&theme=radical&row=1&column=8&margin-w=15&margin-h=15&no-bg=true)
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Firdausizm&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/AndroidWithRossyn/github-readme-activity-graph)
 
 </div>
-
-
 
 
 
