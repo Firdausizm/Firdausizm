@@ -22,6 +22,7 @@
 | 🎧 Music Vibe like **Arctic Monkeys, Nirvana, Oasis** |
 
 
+
 <h3 align="left">Connect with me :</h3>
 
 <p align="left">
@@ -30,10 +31,8 @@
 
 </p>
   
+
  
-
-
-
 <h3 align="center">🛠 Language and tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -48,7 +47,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Firdausizm&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Firdausizm&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Firdausizm&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Firdausizm&theme=github_dark&utcOffset=7)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Firdausizm&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Firdausizm&theme=github_dark)
 
@@ -59,14 +58,11 @@
 </div>
 
 
-
 <h3 align="center">✍️ Random Dev Quote</h3>
 
 <div align="center">
   
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)]
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 </div>
 
