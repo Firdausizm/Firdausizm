@@ -36,11 +36,11 @@
 <h3 align="center">🛠 Language and tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,docker,discord,figma,vscode,matlab,postgres,cpp,python,fastapi,sklearn,tensorflow,pytorch,opencv,langchain,langgraph&perline=10" />
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,powershell,github,git,docker,discord,figma,vscode,postgres,md,cpp,r,python,anaconda,fastapi,sklearn,tensorflow,pytorch,opencv,langchain,langgraph&perline=10" />
   </a>
 </p>
 
- <h3 align="center">⚡Github Stats⚡</h3>
+ <h3 align="center">⚡Github Stats</h3>
  
 
 <div align="center">
