@@ -45,11 +45,11 @@
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Firdausizm&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Firdausizm&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Firdausizm&theme=github_dark&utcOffset=7)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Firdausizm&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Firdausizm&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Firdausizm&theme=github_dark&animation=sequence&duration=4&name=Firdausizm)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Firdausizm&theme=github_dark&animation=sequence&duration=4)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Firdausizm&theme=github_dark&animation=sequence&duration=4)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Firdausizm&theme=github_dark&animation=sequence&duration=4)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Firdausizm&theme=github_dark&animation=sequence&duration=4&utcOffset=7)
 
 ![Trophies](https://github-trophies.vercel.app/?username=Firdausizm&theme=radical&row=1&column=8&margin-w=15&margin-h=15&no-bg=true)
 
