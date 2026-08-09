@@ -1,4 +1,4 @@
-<img src="https://github.com/Firdausizm/Firdausizm/blob/main/bannergithub.png" width=true />
+<img src="https://github.com/Firdausizm/Firdausizm/blob/main/bannerbaruuu.png" width=true />
 
 <p align="center">
 
