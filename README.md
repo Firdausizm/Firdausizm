@@ -33,14 +33,14 @@
   
 
  
-<h3 align="center">🛠 Language and tools</h3>
+<h2 align="center">Language and tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,ubuntu,powershell,github,git,docker,discord,figma,vscode,postgres,md,cpp,r,python,anaconda,fastapi,sklearn,tensorflow,pytorch,opencv,langchain,langgraph&perline=10" />
   </a>
 </p>
 
- <h3 align="center">⚡Github Stats</h3>
+ <h2 align="center">Github Stats</h2>
  
 
 <div align="center">
@@ -66,7 +66,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 </td>
-<td width="75%">
+<td width="70%">
 
 > ### ⚠️ Caution
 >
