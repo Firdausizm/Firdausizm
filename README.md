@@ -58,13 +58,27 @@
 </div>
 
 
-<h3 align="center">✍️ Random Dev Quote</h3>
 
-<div align="center">
+<table>
+<tr>
+<td>
   
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
-</div>
+</td>
+<td width="75%">
+
+> ### ⚠️ Caution
+>
+> Code is never finished, it only gets better.
+>
+> What you see here is built with practice, curiosity, and persistence.
+
+</td>
+</tr>
+</table>
+
+
 
 
 <img align="center" height="700" src="https://raw.githubusercontent.com/sebasrp/sebasrp/master/cyberpunk.pixelart.Akito_One.gif"  />
