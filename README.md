@@ -1,13 +1,11 @@
 <img src="https://github.com/Firdausizm/Firdausizm/blob/main/bannerbaruuu.png" width=true />
 
-<p align="center">
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=40&pause=1000&color=40c463&center=true&vCenter=true&random=false&width=1200&lines=%F0%9F%92%BB+Firdausizm+here;+%F0%9F%92%BB+Welcome+to+My+GitHub+Universe!)](https://git.io/typing-svg)
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=02A8FF&center=true&vCenter=true&width=900&height=100&lines=Firdausizm+here;Welcome+to+my+Github+Universe+!)](https://git.io/typing-svg)
+</div>
 
-
-
-<h2 align="left">About Me ...........................................................................................................................(￣o￣) . z Z </h2>
+<h2 align="center">About Me ... (￣o￣) . z Z </h2>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=BossStudent.BossStudent)
 
