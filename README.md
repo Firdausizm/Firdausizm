@@ -34,7 +34,7 @@
 <h2 align="center">Language and tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu,powershell,github,git,docker,discord,figma,vscode,postgres,md,cpp,r,python,anaconda&perline=10" />
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,powershell,git,docker,figma,postgres,r,python,html,css,js,php,cpp,cs,md&perline=10" />
   </a>
 </p>
 
@@ -55,11 +55,14 @@
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
   ![streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+  ![ngrok](https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white)
   ![fastapi](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
   ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) 
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
   ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white) 
-  ![ngrok](https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white)
+  ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+  ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  
 
 </p>
 
@@ -77,7 +80,8 @@
 
 ![Trophies](https://github-trophies.vercel.app/?username=Firdausizm&theme=radical&row=1&column=8&margin-w=15&margin-h=15&no-bg=true)
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Firdausizm&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/AndroidWithRossyn/github-readme-activity-graph)
+<!-- [![Firdausizm's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Firdausizm&theme=gotham)](https://github.com/Firdausizm/github-readme-activity-graph) -->
+
 
 </div>
 
@@ -103,18 +107,12 @@
 </table>
 
 
-
-
-<img align="center" height="700" src="https://raw.githubusercontent.com/sebasrp/sebasrp/master/cyberpunk.pixelart.Akito_One.gif"  />
-
-
-
-
-
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Firdausizm/Firdausizm/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Firdausizm/Firdausizm/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Firdausizm/Firdausizm/output/pacman-contribution-graph.svg">
 </picture>
+
+
+<img align="center" height="700" src="https://raw.githubusercontent.com/sebasrp/sebasrp/master/cyberpunk.pixelart.Akito_One.gif"  />
+
