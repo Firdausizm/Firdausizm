@@ -96,10 +96,9 @@
 </td>
 <td width="70%">
 
-> ### ⚠️ Caution
->
+> [!WARNING]
 > Code is never finished, it only gets better.
->
+> 
 > What you see here is built with practice, curiosity, and persistence.
 
 </td>
